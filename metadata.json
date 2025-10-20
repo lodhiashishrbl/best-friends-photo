@@ -1,0 +1,5 @@
+{
+  "name": "Best Friends Photo Merge",
+  "description": "An application that takes two photos of different people and uses AI to merge them into a single image where they appear as best friends against an aesthetic studio background.",
+  "requestFramePermissions": []
+}
